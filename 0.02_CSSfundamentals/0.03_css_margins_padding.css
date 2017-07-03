@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+}
+.margins-padding{
+	border: 2px solid blue;
+
+	/*margin-top: 50px;
+	margin-right: 250px;
+	margin-bottom: 200px;
+	margin-left: 200px;*/
+	margin: 50px 250px 200px 200px; /*like going clockwise*/
+	padding: 20px 20px 20px 40px;
+}
+
+#margin-experiment{
+	height:40px;
+	background-color: blue;
+	border: 5px solid pink;
+	margin: 5px 10px 20px 0px;
+	padding: 10px 10px 10px 10px;
+}
+
+#margin-experiment2{
+	height: 40px;
+	background-color: red; 
+	border: 5px solid green;
+	margin: 0px 0px 0px 0px;
+}

@@ -1,0 +1,18 @@
+/*Selector{
+	Property:Value;
+}<-- Is all the Declaration*/
+
+.wrapper{
+	margin:10px;
+}
+body{
+	background-color: #D3D3D3; 
+}
+h1{
+	color:red;?/*Can use specific given colors,but hex can use every color*/
+}
+/*
+Hex Color Codes
+
+#RRGGBB
+*/
